@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+
+    <string name="symbol">symbol</string>
+    <string name="company_name">companyName</string>
+    <string name="priceofmap">latestPrice</string>
+    <string name="change_price">change</string>
+    <string name="changepercent">changePercent</string>
+</resources>
